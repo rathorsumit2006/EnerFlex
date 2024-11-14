@@ -77,3 +77,8 @@ For any questions or collaboration inquiries, please contact:
 ---
 
 Feel free to use or modify this project as needed, and star the repository if you find it helpful!
+
+Cite our work: 
+1. Saif, A., Khadem, S.K., Conlon, M.F. and Norton, B., 2022. Impact of distributed energy resources in smart homes and community-based electricity market. IEEE Transactions on Industry Applications, 59(1), pp.59-69.
+2. Saif, A., Khadem, S.K., Conlon, M. and Norton, B., 2023. Local Electricity Market operation in presence of residential energy storage in low voltage distribution network: Role of retail market pricing. Energy Reports, 9, pp.5799-5811.
+3. Rathor, Sumit K., and Dipti Saxena. "Energy management system for smart grid: An overview and key issues." International Journal of Energy Research 44, no. 6 (2020): 4067-4109.
